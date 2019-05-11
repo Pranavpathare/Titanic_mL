@@ -6,5 +6,6 @@ The following repository contains the Titanic Data Analysis Project work done on
   2. LogisticRegression.ipynb 
   3. LinearRegression.ipynb 
 include models I have trained from scratch using plain numpy and matplotlib.Two of these have also been included in the titanic_ml notebook.
+- train.csv and test.csv include the dataset we require in comma separated value format.
 
 Thank you 
